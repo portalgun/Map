@@ -1,0 +1,10 @@
+*.png
+*.eps
+*.svg
+.History.xml
+.History.bak
+.history.m
+.projectile
+_old
+_old/**
+
